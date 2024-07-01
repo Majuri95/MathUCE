@@ -1,5 +1,4 @@
 # MathUCE
-Bienvenido al Repositorio de Matemáticas
 
 ¡Bienvenido a mi repositorio de Matemáticas y Programación! 👨‍💻
 
