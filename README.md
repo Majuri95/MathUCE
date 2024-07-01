@@ -6,11 +6,11 @@ Este espacio está dedicado a la exploración y desarrollo de conceptos matemát
 
 En este repositorio, encontrarás:
 
-Teoría y Conceptos: Explicaciones detalladas de conceptos matemáticos.
+* Teoría y Conceptos: Explicaciones detalladas de conceptos matemáticos.
 
-Funciones Matemáticas: Explicaciones detalladas y ejemplos prácticos de conceptos fundamentales como imagen y preimagen.
+* Funciones Matemáticas: Explicaciones detalladas y ejemplos prácticos de conceptos fundamentales como imagen y preimagen.
 
-Algoritmos: Implementaciones de algoritmos matemáticos clásicos y modernos, junto con su análisis de complejidad.
+* Algoritmos: Implementaciones de algoritmos matemáticos clásicos y modernos, junto con su análisis de complejidad.
 
 Espero que encuentres útil este repositorio y te animo a contribuir con tus propios ejemplos y proyectos. ¡Vamos a explorar juntos el fascinante mundo de las matemáticas y la programación!
 
