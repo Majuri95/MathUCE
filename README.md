@@ -1,7 +1,9 @@
 # MathUCE
 Bienvenido al Repositorio de Matemáticas
 
-¡Bienvenido a mi repositorio de Matemáticas y Programación! Este espacio está dedicado a la exploración y desarrollo de conceptos matemáticos y su implementación a través de diversos lenguajes de programación. Mi objetivo es crear una colección de recursos educativos y prácticos que ayuden tanto a estudiantes como a profesionales a comprender mejor las matemáticas aplicadas y a desarrollar sus habilidades de programación.
+¡Bienvenido a mi repositorio de Matemáticas y Programación! 👨‍💻
+
+Este espacio está dedicado a la exploración y desarrollo de conceptos matemáticos y su implementación a través de diversos lenguajes de programación. Mi objetivo es crear una colección de recursos educativos y prácticos que ayuden tanto a estudiantes como a profesionales a comprender mejor las matemáticas aplicadas y a desarrollar sus habilidades de programación.
 
 En este repositorio, encontrarás:
 
